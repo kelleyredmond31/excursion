@@ -1,6 +1,7 @@
 body  {
   background-color: Black;
   text-align: center;
+  font-family: Verdana, sans-serif;
 }
 
 h1 {
@@ -14,5 +15,15 @@ h1 {
 .links {
   color: aquamarine;
   font-size: 16px;
+  text-align: right;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+}
+
+#footer {
+  color: white;
   text-align: right;
 }
