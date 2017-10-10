@@ -5,7 +5,6 @@ body  {
 }
 
 h1 {
-  font-family: Verdana, sans-serif;
   font-weight: Normal;
   font-size: 50px;
   text-align: center;
@@ -26,4 +25,9 @@ h2 {
 #footer {
   color: white;
   text-align: right;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
 }
